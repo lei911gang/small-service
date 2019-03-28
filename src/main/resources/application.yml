@@ -11,7 +11,7 @@ spring:
           uri: https://github.com/lei911gang/springcloud-config
           searchPaths: config-file
           username: lei911gang
-          password: xiao249115
+          password: ******
       label: master
   rabbitmq:
       host: localhost
